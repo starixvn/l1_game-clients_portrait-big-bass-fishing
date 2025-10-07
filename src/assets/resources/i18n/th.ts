@@ -291,7 +291,9 @@ export const languages = {
         "win": "ชนะ",
         "win_loss": "ชนะ แพ้",
         "wins": "ชนะ",
-        "you_reach_max_win": "คุณถึงยอดชนะสูงสุด"
+        "you_reach_max_win": "คุณถึงยอดชนะสูงสุด",
+        "max": "สูงสุด",
+        "stop_auto_bet": "หยุดการเดิมพันอัตโนมัติ"
     },
     "cascadingslot": {
         "auto_spin": "สปินอัตโนมัติ",
@@ -373,8 +375,9 @@ export const languages = {
         "you_have_won": "คุณชนะแล้ว!",
         "you_win_free_spin": "คุณชนะ",
         "msg_random_multipliers": "ตัวคูณสุ่มสูงสุด 250x",
-        "mgs_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin",
-        "btn_buy_free_spins": "ซื้อ\nFree Spins"
+        "btn_buy_free_spins": "ซื้อ\nFree Spins",
+        "msg_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin",
+        "turbo_icon": "เทอร์โบ"
     },
     "Olympub": {
         "game_icon_name": "Olympub",
