@@ -2420,7 +2420,7 @@
     "_left": 0,
     "_right": 0,
     "_top": 0,
-    "_bottom": 0.48053689567430025,
+    "_bottom": 0.4595368956743002,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -2462,7 +2462,7 @@
     "value": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 3.499999999999993,
+      "y": -7.000000000000007,
       "z": 0
     }
   },
