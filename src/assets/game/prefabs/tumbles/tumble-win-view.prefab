@@ -1221,7 +1221,7 @@
     "fileId": "d0rMjobU5Dho2q0yLZ/a53"
   },
   {
-    "__type__": "49b6cETqdNJ042SvIsXEhCW",
+    "__type__": "59e1bBGgydKW5x0KBInoZfH",
     "_name": "",
     "_objFlags": 0,
     "__editorExtras__": {},
@@ -1234,7 +1234,7 @@
     },
     "appearanceDuration": 0.2,
     "tumbleLabel": {
-      "__id__": 18
+      "__id__": 6
     },
     "multiplier": {
       "__id__": 24
@@ -1249,7 +1249,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "49pW0sfMdFwJCFVo+Fvb2e"
+    "fileId": "2ewlNtOo5La5Ao0TRzU2tm"
   },
   {
     "__type__": "cc.PrefabInfo",
