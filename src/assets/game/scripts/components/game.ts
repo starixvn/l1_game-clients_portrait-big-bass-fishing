@@ -1,7 +1,7 @@
 import Observer from "observer";
 
 import { _decorator } from "cc";
-import { PortraitCascadingSlotGame } from "db://shared-cascading-slot/portrait-cascading-slot-game";
+import { CascadingSlotGame } from "db://shared-cascading-slot/cascading-slot-game";
 import { startGame } from "db://shared-components/shared/scripts/startup";
 import { siteConfigs } from "../../../scripts/site-configs";
 import { containerOptions } from "../containerOptions";
@@ -15,6 +15,6 @@ const { observer, render, handle } = Observer;
 
 @ccclass
 @observer(settings.name)
-export default class Game extends PortraitCascadingSlotGame {
+export default class Game extends CascadingSlotGame {
     namespace = settings.name;
 }
