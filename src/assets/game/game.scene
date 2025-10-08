@@ -562,7 +562,7 @@
     },
     "component": "",
     "_componentId": "45095HC9rNPjYcv582jRrBd",
-    "handler": "hideSymbolPreview",
+    "handler": "clickOnBackground",
     "customEventData": ""
   },
   {
