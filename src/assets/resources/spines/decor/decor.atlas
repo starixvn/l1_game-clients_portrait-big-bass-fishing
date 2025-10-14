@@ -1,34 +1,55 @@
 
 decor.webp
-size: 1319,466
+size: 1631,1021
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-L_fog
-  rotate: false
-  xy: 1, 1
-  size: 518, 464
-  orig: 603, 552
-  offset: 30, 23
-  index: -1
-R_fog
-  rotate: false
-  xy: 962, 98
-  size: 356, 367
-  orig: 540, 429
-  offset: 152, 42
-  index: -1
-bamboo-leaf2
+boat
   rotate: true
-  xy: 962, 72
-  size: 24, 140
-  orig: 24, 140
+  xy: 1404, 388
+  size: 631, 225
+  orig: 631, 225
   offset: 0, 0
   index: -1
-circlelight
+clould01
   rotate: false
-  xy: 521, 18
-  size: 439, 447
-  orig: 439, 447
+  xy: 798, 2
+  size: 497, 227
+  orig: 498, 229
+  offset: 1, 0
+  index: -1
+clould02
+  rotate: true
+  xy: 1404, 10
+  size: 376, 212
+  orig: 376, 213
+  offset: 0, 0
+  index: -1
+clould03
+  rotate: false
+  xy: 409, 45
+  size: 171, 49
+  orig: 171, 49
+  offset: 0, 0
+  index: -1
+clould04
+  rotate: false
+  xy: 2, 3
+  size: 405, 91
+  orig: 405, 91
+  offset: 0, 0
+  index: -1
+light_cover
+  rotate: false
+  xy: 2, 231
+  size: 1400, 788
+  orig: 1400, 788
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 96
+  size: 794, 133
+  orig: 794, 133
   offset: 0, 0
   index: -1
