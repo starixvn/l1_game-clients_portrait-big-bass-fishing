@@ -472,6 +472,10 @@ export const languages = {
         "total_bet": "總投注",
         "total_win": "總獎金",
         "Unexpected_gift_code_error_message": "發生意外錯誤。請稍後重試。"
+    },
+    "BigBassFishing": {
+        "game_name": "大鱸魚爭霸賽",
+        "game_icon_name": "大鱸魚爭霸賽"
     }
 };
 

@@ -476,6 +476,10 @@ export const languages = {
         "total_win": "총 당첨금",
         "Unexpected_gift_code_error_message": "예기치 않은 오류가 발생했습니다. 나중에 다시 시도해 주십시오.",
         "Close": "닫기"
+    },
+    "BigBassFishing": {
+        "game_name": "빅 배스 낚시",
+        "game_icon_name": "빅 배스\n낚시"
     }
 };
 

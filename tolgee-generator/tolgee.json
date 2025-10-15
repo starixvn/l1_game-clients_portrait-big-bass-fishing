@@ -1,4 +1,8 @@
 {
-    "mainNamespace": "Olympub",
-    "additionalNamespaces": ["Common", "cascadingslot", "FreeSpinBonus"]
+    "mainNamespace": "BigBassFishing",
+    "additionalNamespaces": [
+        "Common",
+        "cascadingslot",
+        "FreeSpinBonus"
+    ]
 }
