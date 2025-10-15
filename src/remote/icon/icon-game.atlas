@@ -1,293 +1,202 @@
 
 icon-game.webp
-size: 1796,618
+size: 851,522
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-bantay-01
+arm_L
   rotate: false
-  xy: 937, 68
-  size: 45, 51
-  orig: 54, 59
-  offset: 0, 4
-  index: -1
-bantay-01a
-  rotate: false
-  xy: 881, 67
-  size: 54, 52
-  orig: 54, 59
-  offset: 0, 6
-  index: -1
-bantay-02
-  rotate: false
-  xy: 1609, 1
-  size: 53, 43
-  orig: 54, 59
-  offset: 0, 12
-  index: -1
-bg
-  rotate: true
-  xy: 1011, 223
-  size: 196, 429
-  orig: 196, 429
+  xy: 629, 45
+  size: 50, 79
+  orig: 50, 79
   offset: 0, 0
   index: -1
-bg 2
-  rotate: true
-  xy: 1011, 421
-  size: 196, 429
-  orig: 196, 429
+arm_R
+  rotate: false
+  xy: 749, 306
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+beard01
+  rotate: false
+  xy: 43, 15
+  size: 87, 21
+  orig: 87, 21
   offset: 0, 0
   index: -1
 body
-  rotate: false
-  xy: 836, 177
-  size: 165, 238
-  orig: 171, 238
-  offset: 6, 0
-  index: -1
-chan
   rotate: true
-  xy: 1644, 100
-  size: 151, 75
-  orig: 171, 75
-  offset: 8, 0
+  xy: 692, 390
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
   index: -1
-cloud
+chin
+  rotate: false
+  xy: 496, 47
+  size: 131, 77
+  orig: 225, 401
+  offset: 70, 161
+  index: -1
+clould
   rotate: true
-  xy: 1644, 253
-  size: 251, 82
-  orig: 251, 115
-  offset: 0, 17
-  index: -1
-dau
-  rotate: false
-  xy: 1644, 506
-  size: 91, 111
-  orig: 91, 113
+  xy: 2, 38
+  size: 280, 130
+  orig: 280, 130
   offset: 0, 0
   index: -1
-lightcolumn2/lightcolumn2_00000
+ear
   rotate: false
-  xy: 1, 417
-  size: 200, 200
-  orig: 200, 200
+  xy: 791, 35
+  size: 28, 41
+  orig: 28, 41
   offset: 0, 0
   index: -1
-lightcolumn2/lightcolumn2_00001
+eyedrow_L
   rotate: false
-  xy: 203, 417
-  size: 200, 200
-  orig: 200, 200
+  xy: 250, 4
+  size: 25, 13
+  orig: 25, 13
   offset: 0, 0
   index: -1
-lightcolumn2/lightcolumn2_00002
-  rotate: false
-  xy: 405, 417
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00003
-  rotate: false
-  xy: 607, 417
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00004
-  rotate: false
-  xy: 809, 417
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00005
-  rotate: false
-  xy: 1442, 417
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00006
-  rotate: false
-  xy: 1442, 215
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00007
-  rotate: false
-  xy: 1, 215
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00008
-  rotate: false
-  xy: 203, 215
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00009
-  rotate: false
-  xy: 405, 17
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00010
-  rotate: false
-  xy: 607, 17
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00011
-  rotate: false
-  xy: 1, 13
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00012
-  rotate: false
-  xy: 203, 13
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00013
-  rotate: false
-  xy: 1003, 21
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00014
-  rotate: false
-  xy: 1205, 21
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00015
-  rotate: false
-  xy: 1407, 13
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightoverlap
+eyedrow_R
   rotate: true
-  xy: 405, 219
+  xy: 462, 2
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 252, 19
+  size: 137, 105
+  orig: 137, 105
+  offset: 0, 0
+  index: -1
+fishline
+  rotate: false
+  xy: 685, 20
+  size: 5, 500
+  orig: 25, 500
+  offset: 9, 0
+  index: -1
+foot
+  rotate: true
+  xy: 749, 103
+  size: 140, 53
+  orig: 140, 53
+  offset: 0, 0
+  index: -1
+gameiconbg
+  rotate: true
+  xy: 254, 324
   size: 196, 429
   orig: 196, 429
   offset: 0, 0
   index: -1
-lybia
+glass
   rotate: true
-  xy: 1609, 46
-  size: 52, 76
-  orig: 57, 79
-  offset: 4, 1
-  index: -1
-mat-01
-  rotate: false
-  xy: 1664, 26
-  size: 44, 18
-  orig: 51, 23
-  offset: 3, 3
-  index: -1
-mat-03
-  rotate: true
-  xy: 809, 171
-  size: 46, 20
-  orig: 51, 23
-  offset: 2, 2
-  index: -1
-mieng-01
-  rotate: true
-  xy: 1609, 175
-  size: 38, 28
-  orig: 39, 32
-  offset: 1, 4
-  index: -1
-mieng-02
-  rotate: true
-  xy: 1609, 138
-  size: 35, 27
-  orig: 39, 32
-  offset: 2, 1
-  index: -1
-mieng-03
-  rotate: false
-  xy: 1664, 7
-  size: 39, 17
-  orig: 39, 32
-  offset: 0, 10
-  index: -1
-shadow
-  rotate: false
-  xy: 809, 121
-  size: 167, 48
-  orig: 171, 49
-  offset: 2, 0
-  index: -1
-tay-01
-  rotate: true
-  xy: 809, 62
-  size: 57, 70
-  orig: 81, 127
-  offset: 21, 31
-  index: -1
-tay-01a
-  rotate: false
-  xy: 1728, 430
-  size: 62, 74
-  orig: 81, 127
-  offset: 18, 29
-  index: -1
-tay-02
-  rotate: false
-  xy: 1728, 254
-  size: 60, 88
-  orig: 81, 127
-  offset: 18, 14
-  index: -1
-tay-03
-  rotate: false
-  xy: 1737, 522
-  size: 58, 95
-  orig: 81, 127
-  offset: 19, 8
-  index: -1
-tay-03a
-  rotate: false
-  xy: 1728, 344
-  size: 61, 84
-  orig: 81, 127
-  offset: 19, 18
-  index: -1
-tayphai
-  rotate: false
-  xy: 1721, 5
-  size: 58, 150
-  orig: 58, 150
+  xy: 804, 113
+  size: 130, 45
+  orig: 130, 45
   offset: 0, 0
   index: -1
-taytrai
+hand_L
   rotate: false
-  xy: 1721, 157
-  size: 70, 94
-  orig: 70, 94
+  xy: 692, 4
+  size: 97, 60
+  orig: 225, 401
+  offset: 128, 76
+  index: -1
+hand_R
+  rotate: false
+  xy: 692, 66
+  size: 55, 322
+  orig: 66, 322
+  offset: 4, 0
+  index: -1
+handel
+  rotate: false
+  xy: 624, 15
+  size: 45, 28
+  orig: 225, 401
+  offset: 99, 91
+  index: -1
+hat
+  rotate: false
+  xy: 391, 40
+  size: 103, 84
+  orig: 140, 84
   offset: 0, 0
   index: -1
-toc
+hat_brim
+  rotate: true
+  xy: 198, 4
+  size: 116, 50
+  orig: 140, 84
+  offset: 24, 23
+  index: -1
+hat_brim_back
   rotate: false
-  xy: 1687, 62
-  size: 30, 36
-  orig: 30, 36
+  xy: 749, 78
+  size: 66, 23
+  orig: 140, 84
+  offset: 69, 54
+  index: -1
+hat_inside
+  rotate: true
+  xy: 134, 2
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+light_cover
+  rotate: true
+  xy: 2, 320
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+lightoverlay
+  rotate: true
+  xy: 254, 126
+  size: 196, 429
+  orig: 196, 429
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 391, 2
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2, 4
+  size: 39, 32
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 496, 5
+  size: 126, 40
+  orig: 140, 82
+  offset: 7, 42
+  index: -1
+shaft
+  rotate: true
+  xy: 749, 245
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+topcolor
+  rotate: true
+  xy: 134, 122
+  size: 196, 116
+  orig: 196, 121
   offset: 0, 0
   index: -1

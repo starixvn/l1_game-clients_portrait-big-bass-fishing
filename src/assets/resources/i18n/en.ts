@@ -395,10 +395,6 @@ export const languages = {
         "msg_free_spins": "Increasing Multiplier in Free Spins",
         "turbo_icon": "Turbo"
     },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
-    },
     "FreeSpinBonus": {
         "bet_level": "Bet Level",
         "Claim_promotion_message": "Great Performance!",

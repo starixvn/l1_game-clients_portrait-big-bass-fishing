@@ -395,14 +395,7 @@ export const languages = {
         "auto_bet_para_6": "손실 시 중단: 손실 한도에 도달하면 자동 베팅을 중단합니다.",
         "tooltip_live_stat": "실시간 통계"
     },
-    "PickleballLoveStory": {
-        "game_name": null,
-        "game_icon_name": null
-    },
-    "Olympub": {
-        "game_name": "올림펍",
-        "game_icon_name": "올림펍"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "베팅 레벨",
         "Claim_promotion_message": "훌륭한 성과입니다!",

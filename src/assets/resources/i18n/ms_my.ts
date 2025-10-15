@@ -395,10 +395,7 @@ export const languages = {
         "auto_bet_para_6": "Berhenti Jika Rugi: Hentikan Pertaruhan Auto apabila mencapai had kerugian anda.",
         "tooltip_live_stat": "Statistik Langsung"
     },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "Bet Level",
         "Claim_promotion_message": "Persembahan Hebat!",

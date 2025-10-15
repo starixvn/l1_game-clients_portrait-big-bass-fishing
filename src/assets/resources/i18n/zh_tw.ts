@@ -395,10 +395,7 @@ export const languages = {
         "msg_free_spins": "Free Spin中的遞增倍數",
         "turbo_icon": "渦輪"
     },
-    "Olympub": {
-        "game_icon_name": "奧林酒館",
-        "game_name": "奧林酒館"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "投注等級",
         "Claim_promotion_message": "表現出色！",

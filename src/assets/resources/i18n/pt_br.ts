@@ -395,14 +395,7 @@ export const languages = {
         "auto_bet_para_6": "Parar ao Perder: Pare a Aposta Automática ao atingir seu limite de perda.",
         "tooltip_live_stat": "Estatística ao Vivo"
     },
-    "PickleballLoveStory": {
-        "game_name": "Pickleball Love Story",
-        "game_icon_name": "Pickleball\nLove Story"
-    },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "Nível de Aposta",
         "Claim_promotion_message": "Ótimo Desempenho!",

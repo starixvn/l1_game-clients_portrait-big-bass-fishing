@@ -395,14 +395,7 @@ export const languages = {
         "auto_bet_para_6": "Kaybedince Dur: Kayıp sınırınıza ulaştığınızda Otomatik Bahsi durdurun.",
         "tooltip_live_stat": "Canlı İstatistik"
     },
-    "PickleballLoveStory": {
-        "game_name": null,
-        "game_icon_name": null
-    },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "Bahis Seviyesi",
         "Claim_promotion_message": "Harika Performans!",

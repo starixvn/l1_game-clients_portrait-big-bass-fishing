@@ -395,10 +395,7 @@ export const languages = {
         "msg_free_spins": "Hệ Số Nhân cộng dồn trong Free Spin",
         "turbo_icon": "Siêu Tốc"
     },
-    "Olympub": {
-        "game_icon_name": "Quán Bar\nOlympus",
-        "game_name": "Quán Bar Olympus"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "Mức Cược",
         "Claim_promotion_message": "Thật Tuyệt!",
