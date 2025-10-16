@@ -2878,8 +2878,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 786,
-      "height": 690
+      "width": 800,
+      "height": 680
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
