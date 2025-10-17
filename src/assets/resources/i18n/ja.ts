@@ -338,7 +338,7 @@ export const languages = {
         "from_settle_to_spin1": "スピンして勝とう！",
         "from_settle_to_spin2": "もっと回して、もっと勝とう！",
         "from_settle_to_spin3": "ターボモードを試そう！",
-        "gameNames.47": "トレジャーアイランド",
+        "gameNames.47": "Treasure Island",
         "header_initial_spin": "初回スピン",
         "header_no": "回",
         "header_result_board": "スピン結果",
@@ -395,10 +395,7 @@ export const languages = {
         "msg_free_spins": "Free Spin中で増加するマルチプライヤー",
         "turbo_icon": "ターボ"
     },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "ベットレベル",
         "Claim_promotion_message": "素晴らしいパフォーマンスです！",
@@ -472,6 +469,10 @@ export const languages = {
         "total_bet": "合計ベット",
         "total_win": "合計勝利額",
         "Unexpected_gift_code_error_message": "予期せぬエラーが発生しました。後ほどもう一度お試しください。"
+    },
+    "BigBassFishing": {
+        "game_name": "Big Bass Fishing",
+        "game_icon_name": "Big Bass\nFishing"
     }
 };
 

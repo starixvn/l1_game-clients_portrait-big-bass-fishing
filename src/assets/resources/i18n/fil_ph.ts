@@ -395,14 +395,7 @@ export const languages = {
         "auto_bet_para_6": "Huminto sa Pagkawala: Ihinto ang Auto Bet kapag naabot mo na ang iyong limitasyon sa pagkawala.",
         "tooltip_live_stat": "Live Stat"
     },
-    "PickleballLoveStory": {
-        "game_name": "Pickleball Love Story",
-        "game_icon_name": "Pickleball\nLove Story"
-    },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "Bet Level",
         "Claim_promotion_message": "Mahusay na Laro!",
@@ -476,6 +469,10 @@ export const languages = {
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Nagkaroon ng hindi inaasahang error. Paki-subukan ulit mamaya.",
         "Close": "Isara"
+    },
+    "BigBassFishing": {
+        "game_name": "Big Bass Fishing",
+        "game_icon_name": "Big Bass\nFishing"
     }
 };
 

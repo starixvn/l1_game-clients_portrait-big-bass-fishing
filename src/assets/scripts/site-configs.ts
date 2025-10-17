@@ -15,7 +15,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         localhost: "lumigame.com",
     },
     ssl: true,
-    subDomain: "l1-proxy",
+    subDomain: "l2-proxy",
     env: "LOCAL",
     subGuideDomain: "l1-guide-2",
     SGConnectSubDomain: "connectsite",
@@ -25,7 +25,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         proxyPath: GAME_NAME.toLowerCase(),
         route: GAME_NAME.toLowerCase(),
     },
-    storagePrefixKey: "olympub",
+    storagePrefixKey: "big_bass_fishing",
     tolgeeUrl: "",
     subPromotionDomain: "l2-promotion2",
     sentry: {

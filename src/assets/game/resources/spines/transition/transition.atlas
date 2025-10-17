@@ -1,159 +1,68 @@
-
 transition.webp
-size: 1866,1808
+size: 1962,557
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-light
+fish
   rotate: false
-  xy: 1, 1360
-  size: 660, 447
-  orig: 669, 454
-  offset: 4, 4
-  index: -1
-smoke-explode/smoke_00000
-  rotate: false
-  xy: 1265, 1357
-  size: 600, 450
-  orig: 600, 450
+  xy: 2, 2
+  size: 957, 553
+  orig: 957, 553
   offset: 0, 0
   index: -1
-smoke-explode/smoke_00001
+sparkle
   rotate: false
-  xy: 1, 908
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
+  xy: 1443, 7
+  size: 66, 66
+  orig: 67, 67
+  offset: 0, 1
   index: -1
-smoke-explode/smoke_00002
+w-column01
   rotate: false
-  xy: 603, 905
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
+  xy: 1832, 70
+  size: 128, 485
+  orig: 186, 549
+  offset: 40, 43
   index: -1
-smoke-explode/smoke_00003
+w-column02
   rotate: false
-  xy: 1205, 905
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
+  xy: 1605, 64
+  size: 225, 491
+  orig: 252, 594
+  offset: 14, 69
   index: -1
-smoke-explode/smoke_00004
+w-column03
   rotate: false
-  xy: 1, 456
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
+  xy: 1356, 75
+  size: 247, 480
+  orig: 289, 595
+  offset: 17, 55
   index: -1
-smoke-explode/smoke_00005
+w-column04
   rotate: false
-  xy: 603, 453
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
+  xy: 961, 9
+  size: 393, 546
+  orig: 1400, 788
+  offset: 490, 64
   index: -1
-smoke-explode/smoke_00006
-  rotate: false
-  xy: 1205, 453
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00007
-  rotate: false
-  xy: 1205, 453
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00008
-  rotate: false
-  xy: 1205, 453
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00009
-  rotate: false
-  xy: 1, 4
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00010
-  rotate: false
-  xy: 603, 1
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00011
-  rotate: false
-  xy: 1205, 1
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00017
-  rotate: false
-  xy: 663, 1357
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-
-transition2.webp
-size: 1911,1664
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-cheer-hand
-  rotate: false
-  xy: 1053, 1102
-  size: 857, 561
-  orig: 857, 561
-  offset: 0, 0
-  index: -1
-foambeer
+w-drop01
   rotate: true
-  xy: 1, 603
-  size: 1060, 1050
-  orig: 1254, 1254
-  offset: 103, 114
+  xy: 1356, 15
+  size: 58, 85
+  orig: 90, 130
+  offset: 22, 21
   index: -1
-smoke-explode/smoke_00012
-  rotate: true
-  xy: 1, 1
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00013
-  rotate: true
-  xy: 453, 1
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00014
-  rotate: true
-  xy: 905, 1
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
-  index: -1
-smoke-explode/smoke_00015
+w-drop02
   rotate: false
-  xy: 1053, 650
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
+  xy: 1511, 26
+  size: 75, 47
+  orig: 127, 103
+  offset: 17, 39
   index: -1
-smoke-explode/smoke_00016
-  rotate: true
-  xy: 1357, 48
-  size: 600, 450
-  orig: 600, 450
-  offset: 0, 0
+w-drop03
+  rotate: false
+  xy: 1588, 26
+  size: 50, 36
+  orig: 134, 67
+  offset: 65, 21
   index: -1

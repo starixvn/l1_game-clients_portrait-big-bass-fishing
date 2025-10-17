@@ -395,10 +395,7 @@ export const languages = {
         "auto_bet_para_6": "नुकसान पर रोकें: अपनी हानि सीमा तक पहुंचने पर ऑटो बेट बंद करें।",
         "tooltip_live_stat": "लाइव स्टैट"
     },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "बेट लेवल",
         "Claim_promotion_message": "शानदार प्रदर्शन!",
@@ -472,6 +469,10 @@ export const languages = {
         "total_win": "कुल जीत",
         "Unexpected_gift_code_error_message": "अप्रत्याशित त्रुटि हुई. कृपया बाद में पुन: प्रयास करें.",
         "Close": "बंद करें"
+    },
+    "BigBassFishing": {
+        "game_name": "Big Bass Fishing",
+        "game_icon_name": "Big Bass\nFishing"
     }
 };
 

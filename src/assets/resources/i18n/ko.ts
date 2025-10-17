@@ -395,14 +395,7 @@ export const languages = {
         "auto_bet_para_6": "손실 시 중단: 손실 한도에 도달하면 자동 베팅을 중단합니다.",
         "tooltip_live_stat": "실시간 통계"
     },
-    "PickleballLoveStory": {
-        "game_name": null,
-        "game_icon_name": null
-    },
-    "Olympub": {
-        "game_name": "올림펍",
-        "game_icon_name": "올림펍"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "베팅 레벨",
         "Claim_promotion_message": "훌륭한 성과입니다!",
@@ -476,6 +469,10 @@ export const languages = {
         "total_win": "총 당첨금",
         "Unexpected_gift_code_error_message": "예기치 않은 오류가 발생했습니다. 나중에 다시 시도해 주십시오.",
         "Close": "닫기"
+    },
+    "BigBassFishing": {
+        "game_name": "빅 배스 낚시",
+        "game_icon_name": "빅 배스\n낚시"
     }
 };
 

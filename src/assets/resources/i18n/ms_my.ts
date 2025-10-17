@@ -395,10 +395,7 @@ export const languages = {
         "auto_bet_para_6": "Berhenti Jika Rugi: Hentikan Pertaruhan Auto apabila mencapai had kerugian anda.",
         "tooltip_live_stat": "Statistik Langsung"
     },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "Bet Level",
         "Claim_promotion_message": "Persembahan Hebat!",
@@ -472,6 +469,10 @@ export const languages = {
         "total_win": "Jumlah Kemenangan",
         "Unexpected_gift_code_error_message": "Ralat tak dijangka berlaku. Sila cuba lagi kemudian.",
         "Close": "Tutup"
+    },
+    "BigBassFishing": {
+        "game_name": "Big Bass Fishing",
+        "game_icon_name": "Big Bass\nFishing"
     }
 };
 

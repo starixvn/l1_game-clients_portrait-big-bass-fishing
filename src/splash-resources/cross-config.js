@@ -1,4 +1,4 @@
 window.crossConfig = {
     backgroundLocalized: false,
-    storagePrefixKey: "olympub",
+    storagePrefixKey: "big_bass_fishing",
 };

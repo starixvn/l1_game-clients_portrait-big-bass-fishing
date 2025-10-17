@@ -395,14 +395,7 @@ export const languages = {
         "auto_bet_para_6": "Kaybedince Dur: Kayıp sınırınıza ulaştığınızda Otomatik Bahsi durdurun.",
         "tooltip_live_stat": "Canlı İstatistik"
     },
-    "PickleballLoveStory": {
-        "game_name": null,
-        "game_icon_name": null
-    },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "Bahis Seviyesi",
         "Claim_promotion_message": "Harika Performans!",
@@ -476,6 +469,10 @@ export const languages = {
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
         "Close": "Kapat"
+    },
+    "BigBassFishing": {
+        "game_name": "Büyük Bass Balıkçılığı",
+        "game_icon_name": "Büyük Levrek\nBalıkçılığı"
     }
 };
 

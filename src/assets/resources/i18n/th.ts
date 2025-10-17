@@ -395,10 +395,7 @@ export const languages = {
         "msg_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin",
         "turbo_icon": "เทอร์โบ"
     },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
-    },
+
     "FreeSpinBonus": {
         "bet_level": "ระดับเดิมพัน",
         "Claim_promotion_message": "สุดยอด! ",
@@ -472,6 +469,10 @@ export const languages = {
         "total_bet": "ยอดเดิมพันรวม",
         "total_win": "ยอดชนะรวม",
         "Unexpected_gift_code_error_message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง"
+    },
+    "BigBassFishing": {
+        "game_name": "Big Bass Fishing",
+        "game_icon_name": "Big Bass\nFishing"
     }
 };
 
