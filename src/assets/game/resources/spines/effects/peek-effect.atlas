@@ -1,531 +1,342 @@
 
 peek-effect.webp
-size: 1220,645
+size: 1921,1473
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-fall00
-  rotate: true
-  xy: 2, 300
-  size: 55, 240
-  orig: 55, 240
+fall/fall_00
+  rotate: false
+  xy: 0, 1472
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
-fall01
+fall/fall_01
   rotate: true
-  xy: 246, 299
-  size: 55, 240
-  orig: 55, 240
+  xy: 3, 1425
+  size: 48, 57
+  orig: 85, 689
+  offset: 16, 630
+  index: -1
+fall/fall_02
+  rotate: true
+  xy: 134, 1397
+  size: 76, 103
+  orig: 85, 689
+  offset: 2, 585
+  index: -1
+fall/fall_03
+  rotate: true
+  xy: 346, 1391
+  size: 82, 156
+  orig: 85, 689
+  offset: 0, 533
+  index: -1
+fall/fall_04
+  rotate: true
+  xy: 893, 1388
+  size: 85, 233
+  orig: 85, 689
+  offset: 0, 456
+  index: -1
+fall/fall_05
+  rotate: true
+  xy: 1128, 1388
+  size: 85, 309
+  orig: 85, 689
+  offset: 0, 380
+  index: -1
+fall/fall_06
+  rotate: true
+  xy: 1439, 1388
+  size: 85, 390
+  orig: 85, 689
+  offset: 0, 299
+  index: -1
+fall/fall_07
+  rotate: true
+  xy: 313, 1302
+  size: 85, 477
+  orig: 85, 689
+  offset: 0, 212
+  index: -1
+fall/fall_08
+  rotate: true
+  xy: 792, 1301
+  size: 85, 552
+  orig: 85, 689
+  offset: 0, 137
+  index: -1
+fall/fall_09
+  rotate: true
+  xy: 0, 1215
+  size: 85, 617
+  orig: 85, 689
+  offset: 0, 72
+  index: -1
+fall/fall_10
+  rotate: true
+  xy: 619, 1214
+  size: 85, 675
+  orig: 85, 689
+  offset: 0, 14
+  index: -1
+fall/fall_11
+  rotate: true
+  xy: 472, 1127
+  size: 85, 687
+  orig: 85, 689
+  offset: 0, 2
+  index: -1
+fall/fall_12
+  rotate: true
+  xy: 1161, 1127
+  size: 85, 689
+  orig: 85, 689
   offset: 0, 0
   index: -1
-fall02
+fall/fall_13
   rotate: true
-  xy: 490, 297
-  size: 55, 240
-  orig: 55, 240
+  xy: 390, 1040
+  size: 85, 683
+  orig: 85, 689
   offset: 0, 0
   index: -1
-fall03
+fall/fall_14
   rotate: true
-  xy: 734, 297
-  size: 55, 240
-  orig: 55, 240
+  xy: 1075, 1040
+  size: 85, 657
+  orig: 85, 689
   offset: 0, 0
   index: -1
-fall04
+fall/fall_15
   rotate: true
-  xy: 978, 297
-  size: 55, 240
-  orig: 55, 240
+  xy: 1296, 1214
+  size: 85, 612
+  orig: 85, 689
   offset: 0, 0
   index: -1
-fall05
+fall/fall_16
   rotate: true
-  xy: 2, 241
-  size: 55, 240
-  orig: 55, 240
+  xy: 1346, 1301
+  size: 85, 546
+  orig: 85, 689
   offset: 0, 0
   index: -1
-fall06
+fall/fall_17
   rotate: true
-  xy: 246, 240
-  size: 55, 240
-  orig: 55, 240
+  xy: 0, 1128
+  size: 85, 470
+  orig: 85, 689
   offset: 0, 0
   index: -1
-fall07
+fall/fall_18
   rotate: true
-  xy: 490, 238
-  size: 55, 240
-  orig: 55, 240
+  xy: 0, 1041
+  size: 85, 388
+  orig: 85, 689
   offset: 0, 0
   index: -1
-fall08
+fall/fall_19
   rotate: true
-  xy: 734, 238
-  size: 55, 240
-  orig: 55, 240
+  xy: 0, 1305
+  size: 85, 311
+  orig: 85, 689
   offset: 0, 0
   index: -1
-fall09
+fall/fall_20
   rotate: true
-  xy: 978, 238
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall10
-  rotate: true
-  xy: 2, 182
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall11
-  rotate: true
-  xy: 246, 181
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall12
-  rotate: true
-  xy: 490, 179
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall13
-  rotate: true
-  xy: 734, 179
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall14
-  rotate: true
-  xy: 978, 179
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall15
-  rotate: true
-  xy: 2, 123
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall16
-  rotate: true
-  xy: 246, 122
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall17
-  rotate: true
-  xy: 490, 120
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall18
-  rotate: true
-  xy: 734, 120
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall19
-  rotate: true
-  xy: 978, 120
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall20
-  rotate: true
-  xy: 2, 64
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall21
-  rotate: true
-  xy: 246, 63
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall22
-  rotate: true
-  xy: 490, 61
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall23
-  rotate: true
-  xy: 734, 61
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall24
-  rotate: true
-  xy: 978, 61
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall25
-  rotate: true
-  xy: 2, 5
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall26
-  rotate: true
-  xy: 246, 4
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall27
-  rotate: true
-  xy: 490, 2
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall28
-  rotate: true
-  xy: 734, 2
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-fall29
-  rotate: true
-  xy: 978, 2
-  size: 55, 240
-  orig: 55, 240
-  offset: 0, 0
-  index: -1
-water00
-  rotate: true
-  xy: 2, 622
-  size: 21, 232
-  orig: 30, 240
-  offset: 6, 8
-  index: -1
-water01
-  rotate: true
-  xy: 482, 621
-  size: 22, 230
-  orig: 30, 240
-  offset: 5, 10
-  index: -1
-water02
-  rotate: true
-  xy: 892, 594
-  size: 23, 227
-  orig: 30, 240
-  offset: 4, 13
-  index: -1
-water03
-  rotate: true
-  xy: 716, 621
-  size: 22, 225
-  orig: 30, 240
-  offset: 4, 15
-  index: -1
-water04
-  rotate: true
-  xy: 945, 621
-  size: 22, 223
-  orig: 30, 240
-  offset: 4, 17
-  index: -1
-water05
-  rotate: true
-  xy: 2, 596
-  size: 22, 218
-  orig: 30, 240
-  offset: 4, 22
-  index: -1
-water06
-  rotate: true
-  xy: 224, 596
-  size: 22, 211
-  orig: 30, 240
-  offset: 4, 29
-  index: -1
-water07
-  rotate: true
-  xy: 439, 595
-  size: 22, 205
-  orig: 30, 240
-  offset: 4, 35
-  index: -1
-water08
-  rotate: true
-  xy: 238, 622
-  size: 21, 240
-  orig: 30, 240
-  offset: 5, 0
-  index: -1
-water09
-  rotate: true
-  xy: 648, 595
-  size: 22, 240
-  orig: 30, 240
-  offset: 5, 0
-  index: -1
-water10
-  rotate: true
-  xy: 2, 568
-  size: 24, 238
-  orig: 30, 240
-  offset: 3, 0
-  index: -1
-water11
-  rotate: true
-  xy: 484, 562
-  size: 29, 240
-  orig: 30, 240
+  xy: 662, 1389
+  size: 84, 229
+  orig: 85, 689
   offset: 1, 0
   index: -1
-water12
+fall/fall_21
   rotate: true
-  xy: 728, 560
-  size: 30, 240
-  orig: 30, 240
+  xy: 504, 1390
+  size: 83, 156
+  orig: 85, 689
+  offset: 2, 1
+  index: -1
+fall/fall_22
+  rotate: true
+  xy: 239, 1392
+  size: 81, 105
+  orig: 85, 689
+  offset: 3, 1
+  index: -1
+fall/fall_23
+  rotate: true
+  xy: 62, 1409
+  size: 64, 70
+  orig: 85, 689
+  offset: 11, 3
+  index: -1
+water_bg/peek-effect_00
+  rotate: true
+  xy: 0, 910
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water13
+water_bg/peek-effect_01
   rotate: true
-  xy: 972, 560
-  size: 30, 240
-  orig: 30, 240
+  xy: 641, 910
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water14
+water_bg/peek-effect_02
   rotate: true
-  xy: 2, 529
-  size: 30, 240
-  orig: 30, 240
+  xy: 1282, 910
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water15
+water_bg/peek-effect_03
   rotate: true
-  xy: 246, 528
-  size: 30, 240
-  orig: 30, 240
+  xy: 0, 780
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water16
+water_bg/peek-effect_04
   rotate: true
-  xy: 490, 526
-  size: 30, 240
-  orig: 30, 240
+  xy: 641, 780
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water17
+water_bg/peek-effect_05
   rotate: true
-  xy: 734, 526
-  size: 30, 240
-  orig: 30, 240
+  xy: 1282, 780
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water18
+water_bg/peek-effect_06
   rotate: true
-  xy: 978, 526
-  size: 30, 240
-  orig: 30, 240
+  xy: 0, 650
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water19
+water_bg/peek-effect_07
   rotate: true
-  xy: 2, 495
-  size: 30, 240
-  orig: 30, 240
+  xy: 641, 650
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water20
+water_bg/peek-effect_08
   rotate: true
-  xy: 246, 494
-  size: 30, 240
-  orig: 30, 240
+  xy: 1282, 650
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water21
+water_bg/peek-effect_09
   rotate: true
-  xy: 490, 492
-  size: 30, 240
-  orig: 30, 240
+  xy: 0, 520
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water22
+water_bg/peek-effect_10
   rotate: true
-  xy: 734, 492
-  size: 30, 240
-  orig: 30, 240
+  xy: 641, 520
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water23
+water_bg/peek-effect_11
   rotate: true
-  xy: 978, 492
-  size: 30, 240
-  orig: 30, 240
+  xy: 1282, 520
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water24
+water_bg/peek-effect_12
   rotate: true
-  xy: 2, 461
-  size: 30, 240
-  orig: 30, 240
+  xy: 0, 390
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water25
+water_bg/peek-effect_13
   rotate: true
-  xy: 246, 460
-  size: 30, 240
-  orig: 30, 240
+  xy: 641, 390
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water26
+water_bg/peek-effect_14
   rotate: true
-  xy: 490, 458
-  size: 30, 240
-  orig: 30, 240
+  xy: 1282, 390
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water27
+water_bg/peek-effect_15
   rotate: true
-  xy: 734, 458
-  size: 30, 240
-  orig: 30, 240
+  xy: 0, 260
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water28
+water_bg/peek-effect_16
   rotate: true
-  xy: 978, 458
-  size: 30, 240
-  orig: 30, 240
+  xy: 641, 260
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water29
+water_bg/peek-effect_17
   rotate: true
-  xy: 2, 427
-  size: 30, 240
-  orig: 30, 240
+  xy: 1282, 260
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water30
+water_bg/peek-effect_18
   rotate: true
-  xy: 246, 426
-  size: 30, 240
-  orig: 30, 240
+  xy: 0, 130
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water31
+water_bg/peek-effect_19
   rotate: true
-  xy: 490, 424
-  size: 30, 240
-  orig: 30, 240
+  xy: 641, 130
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water32
+water_bg/peek-effect_20
   rotate: true
-  xy: 734, 424
-  size: 30, 240
-  orig: 30, 240
+  xy: 1282, 130
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water33
+water_bg/peek-effect_21
   rotate: true
-  xy: 978, 424
-  size: 30, 239
-  orig: 30, 240
-  offset: 0, 1
-  index: -1
-water34
-  rotate: true
-  xy: 2, 393
-  size: 30, 240
-  orig: 30, 240
+  xy: 0, 0
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water35
+water_bg/peek-effect_22
   rotate: true
-  xy: 246, 392
-  size: 30, 240
-  orig: 30, 240
+  xy: 641, 0
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
   index: -1
-water36
+water_bg/peek-effect_23
   rotate: true
-  xy: 490, 390
-  size: 30, 240
-  orig: 30, 240
+  xy: 1282, 0
+  size: 128, 639
+  orig: 128, 639
   offset: 0, 0
-  index: -1
-water37
-  rotate: true
-  xy: 734, 390
-  size: 30, 240
-  orig: 30, 240
-  offset: 0, 0
-  index: -1
-water38
-  rotate: true
-  xy: 978, 390
-  size: 30, 240
-  orig: 30, 240
-  offset: 0, 0
-  index: -1
-water39
-  rotate: true
-  xy: 2, 359
-  size: 30, 240
-  orig: 30, 240
-  offset: 0, 0
-  index: -1
-water40
-  rotate: true
-  xy: 246, 358
-  size: 30, 240
-  orig: 30, 240
-  offset: 0, 0
-  index: -1
-water41
-  rotate: true
-  xy: 490, 356
-  size: 30, 240
-  orig: 30, 240
-  offset: 0, 0
-  index: -1
-water42
-  rotate: true
-  xy: 734, 356
-  size: 30, 240
-  orig: 30, 240
-  offset: 0, 0
-  index: -1
-water43
-  rotate: true
-  xy: 978, 356
-  size: 30, 240
-  orig: 30, 240
-  offset: 0, 0
-  index: -1
-water44
-  rotate: true
-  xy: 244, 563
-  size: 28, 236
-  orig: 30, 240
-  offset: 2, 4
   index: -1
