@@ -16,6 +16,16 @@
         "path": "click",
         "isLazyLoad": true
     },
+    "mega-win": {
+        "bundle": "resources",
+        "path": "mega-win",
+        "isLazyLoad": true
+    },
+    "super-win": {
+        "bundle": "resources",
+        "path": "super-win",
+        "isLazyLoad": true
+    },
     "win": {
         "bundle": "resources",
         "path": "win",
@@ -100,6 +110,14 @@
         "isLazyLoad": true
     },
     "symbol-scatter-win": {
+        "bundle": "resources",
+        "isLazyLoad": true
+    },
+    "stinger-wincount": {
+        "bundle": "resources",
+        "isLazyLoad": true
+    },
+    "stinger-freespin-win": {
         "bundle": "resources",
         "isLazyLoad": true
     }
